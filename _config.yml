@@ -4,5 +4,9 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://KI-1-AI-Sec.github.io
 
+logo: "assets/patch_retrained.png"
+
+favicon_ico: "assets/favicon.ico"
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
