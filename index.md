@@ -15,12 +15,14 @@ mitigation techniques.
 
 ### Zeke Lipscomb
 
+![alt text like for blind people](./assets/Zeke.jpg)
+
 **Roles:** Lead the team and own administrative aspects of the project<br>
 **Email:** [zekeclass@gmail.com](mailto:zekeclass@gmail.com)
 
 ### Babrah Koroma
 
-![alt text like for blind people](./assets/facebook.png)
+![alt text like for blind people](./assets/Babrah.jpg)
 
 **Roles:** Administrative and Data Science assistance<br>
 **Email:** [Babrah.6766@gmail.com](mailto:Babrah.6766@gmail.com)<br>
@@ -28,11 +30,15 @@ mitigation techniques.
 
 ### Matthew Krupczak
 
+![alt text like for blind people](./assets/Matthew.jpg)
+
 **Roles:** Individual Contributor for code<br>
 **Email:** [matthew@krupczak.org](mailto:matthew@krupczak.org)<br>
 **LinkedIn**: [Matthew Krupczak](https://www.linkedin.com/in/matthew-krupczak/)
 
 ### Kyle Bratcher
+
+![alt text like for blind people](./assets/Kyle.jpg)
 
 **Roles:** Individual Contributor for code<br>
 **Email:** [kbratch1@students.kennesaw.edu](mailto:kbratch1@students.kennesaw.edu)
