@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: default
+title: Home
 nav_order: 1
+description: "Main page description"
+permalink: /
 ---
 
 # Home
@@ -10,7 +13,7 @@ mitigation techniques.
 
 ## Team
 
-### Zeke Lipscomb 
+### Zeke Lipscomb
 
 **Roles:** Lead the team and own administrative aspects of the project<br>
 **Email:** [zekeclass@gmail.com](mailto:zekeclass@gmail.com)
