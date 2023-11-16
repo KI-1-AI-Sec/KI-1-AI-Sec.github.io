@@ -20,6 +20,8 @@ mitigation techniques.
 
 ### Babrah Koroma
 
+![alt text like for blind people](./assets/facebook.png)
+
 **Roles:** Administrative and Data Science assistance<br>
 **Email:** [Babrah.6766@gmail.com](mailto:Babrah.6766@gmail.com)<br>
 **LinkedIn:** [Babrah Koroma](https://www.linkedin.com/in/babrahkoroma/)
