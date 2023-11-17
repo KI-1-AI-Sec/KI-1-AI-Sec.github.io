@@ -45,5 +45,7 @@ mitigation techniques.
 
 ### Dr. Kazi Aminul Islam
 
+![alt text like for blind people](./assets/Dr Islam.png)
+
 **Roles:** Provide direction for the project and set goals<br>
 **Email:** [kislam4@kennesaw.edu](mailto:kislam4@kennesaw.edu)
