@@ -15,14 +15,14 @@ mitigation techniques.
 
 ### Zeke Lipscomb
 
-![alt text like for blind people](./assets/Zeke.jpg)
+![Zeke image](./assets/Zeke.jpg)
 
 **Roles:** Lead the team and own administrative aspects of the project<br>
 **Email:** [zekeclass@gmail.com](mailto:zekeclass@gmail.com)
 
 ### Babrah Koroma
 
-![alt text like for blind people](./assets/Babrah.jpg)
+![Babrah image](./assets/Babrah.jpg)
 
 **Roles:** Administrative and Data Science assistance<br>
 **Email:** [Babrah.6766@gmail.com](mailto:Babrah.6766@gmail.com)<br>
@@ -30,7 +30,7 @@ mitigation techniques.
 
 ### Matthew Krupczak
 
-![alt text like for blind people](./assets/Matthew.jpg)
+![Matthew image](./assets/Matthew.jpg)
 
 **Roles:** Individual Contributor for code<br>
 **Email:** [matthew@krupczak.org](mailto:matthew@krupczak.org)<br>
@@ -38,14 +38,14 @@ mitigation techniques.
 
 ### Kyle Bratcher
 
-![alt text like for blind people](./assets/Kyle.jpg)
+![Kyle image](./assets/Kyle.jpg)
 
 **Roles:** Individual Contributor for code<br>
 **Email:** [kbratch1@students.kennesaw.edu](mailto:kbratch1@students.kennesaw.edu)
 
 ### Dr. Kazi Aminul Islam
 
-![alt text like for blind people](./assets/Dr Islam.png)
+![Dr Islam image](./assets/Dr Islam.png)
 
 **Roles:** Provide direction for the project and set goals<br>
 **Email:** [kislam4@kennesaw.edu](mailto:kislam4@kennesaw.edu)
