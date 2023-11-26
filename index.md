@@ -22,7 +22,7 @@ mitigation techniques.
 
 ### Babrah Koroma
 
-![Babrah image](./assets/Babrah.jpg)
+![Babrah image](./assets/Babrah1.jpg)
 
 **Roles:** Administrative and Data Science assistance<br>
 **Email:** [Babrah.6766@gmail.com](mailto:Babrah.6766@gmail.com)<br>
@@ -38,7 +38,7 @@ mitigation techniques.
 
 ### Kyle Bratcher
 
-![Kyle image](./assets/Kyle.jpg)
+![Kyle image](./assets/Kyle1.jpg)
 
 **Roles:** Individual Contributor for code<br>
 **Email:** [kbratch1@students.kennesaw.edu](mailto:kbratch1@students.kennesaw.edu)
