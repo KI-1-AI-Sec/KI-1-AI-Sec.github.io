@@ -17,7 +17,8 @@ mitigation techniques.
 
 ![Zeke image](./assets/Zeke.jpg)
 
-**Roles:** Lead the team and own administrative aspects of the project<br>
+**Roles:** Lead the team 
+and own administrative aspects of the project<br>
 **Email:** [zekeclass@gmail.com](mailto:zekeclass@gmail.com)
 
 ### Babrah Koroma
