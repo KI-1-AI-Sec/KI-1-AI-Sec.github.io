@@ -8,8 +8,7 @@ permalink: /
 
 # Home
 
-Adversarial Attacks in ML based Remote Sensing applications undergraduate research project for CS4850. With the advancement of Artificial Intelligence (AI) technology, it is used in every part of our life, e.g., finance, security system, autonomous vehicle, cybersecurity, and transportation system. But based detectors. This might create a catastrophic effect on many security-critical systems. Government organizations, such as US Navy, US Army, and many private sectors, e.g., Uber and Google, use remote sensing data. Satellite imagery, one of the most popular remote sensing products, is widely used to monitor objects remotely. In this project, Student will explore the potential vulnerabilities of the AI models in remote sensing-based AI models and developing
-mitigation techniques.
+Adversarial Attacks in ML based Remote Sensing applications undergraduate research project for CS4850.
 
 ## Team
 
