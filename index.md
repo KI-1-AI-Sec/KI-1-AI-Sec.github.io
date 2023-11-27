@@ -12,9 +12,9 @@ Adversarial Attacks in ML based Remote Sensing applications undergraduate resear
 
 ## Team
 
-### Zeke Lipscomb
+![Zeke image](./assets/Teams.png)
 
-![Zeke image](./assets/Zeke.jpg)
+### Zeke Lipscomb
 
 **Roles:** Lead the team 
 and own administrative aspects of the project<br>
@@ -22,15 +22,11 @@ and own administrative aspects of the project<br>
 
 ### Babrah Koroma
 
-![Babrah image](./assets/Babrah.jpg)
-
 **Roles:** Administrative and Data Science assistance<br>
 **Email:** [Babrah.6766@gmail.com](mailto:Babrah.6766@gmail.com)<br>
 **LinkedIn:** [Babrah Koroma](https://www.linkedin.com/in/babrahkoroma/)
 
 ### Matthew Krupczak
-
-![Matthew image](./assets/Matthew.jpg)
 
 **Roles:** Individual Contributor for code<br>
 **Email:** [matthew@krupczak.org](mailto:matthew@krupczak.org)<br>
@@ -38,14 +34,10 @@ and own administrative aspects of the project<br>
 
 ### Kyle Bratcher
 
-![Kyle image](./assets/Kyle.jpg)
-
 **Roles:** Individual Contributor for code<br>
 **Email:** [kbratch1@students.kennesaw.edu](mailto:kbratch1@students.kennesaw.edu)
 
 ### Dr. Kazi Aminul Islam
-
-![Dr Islam image](./assets/Dr Islam.png)
 
 **Roles:** Provide direction for the project and set goals<br>
 **Email:** [kislam4@kennesaw.edu](mailto:kislam4@kennesaw.edu)
