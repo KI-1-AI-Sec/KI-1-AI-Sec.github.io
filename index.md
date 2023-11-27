@@ -12,7 +12,7 @@ Adversarial Attacks in ML based Remote Sensing applications undergraduate resear
 
 ## Team
 
-![Zeke image](./assets/Teams.png)
+![Zeke image](./assets/Team.png)
 
 ### Zeke Lipscomb
 
