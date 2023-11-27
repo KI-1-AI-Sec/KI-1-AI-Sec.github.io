@@ -1,6 +1,8 @@
 title: CS4850-KI-1-AI-Security
 description: KI-1-AI-Security Senior Project for CS4850. Adversarial-Attacks-in-ML-based
 Remote-Sensing-Applications
+baseurl: "/KI-1-AI-Sec" 
+url: "https://ki-1-ai-sec.github.io//" 
 remote_theme: just-the-docs/just-the-docs
 
 url: https://KI-1-AI-Sec.github.io
