@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Project Concepts
+permalink: /Project Concepts/
 nav_order: 5
 ---
 
