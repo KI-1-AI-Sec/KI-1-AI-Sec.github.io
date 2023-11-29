@@ -7,7 +7,7 @@ nav_order: 6
 
 # References
 
-[1] IBM [n. d.]. _IBM Quantum Composer_. IBM. [https://quantum-computing.ibm.com/composer/](https://quantum-computing.ibm.com/composer/)<br>
+[1] <br>
 [2] <br>
 [3] <br>
 [4] <br>
