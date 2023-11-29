@@ -2,7 +2,7 @@
 layout: page
 title: Project Concepts
 permalink: /Project Concepts/
-nav_order: 5
+nav_order: 2
 ---
 
 # Adversarial Attacks in ML based Remote Sensing applications. YOLO and CNN Concept Breakdown
