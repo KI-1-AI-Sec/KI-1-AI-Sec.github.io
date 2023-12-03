@@ -11,7 +11,7 @@ nav_order: 2
 
 {% if report.path contains "Background_AP.pdf" %}
 
-<object data="{{site.url}}{{site.baseurl}}{{report.path}}" width="850" height="1100" type='application/pdf'/>
+<object data="{{site.url}}{{site.baseurl}}{{report.path}}" width="800" height="450" type='application/pdf'/>
 </object>
 
 {% endif %}

@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Main page description"
+description: "Main page for KI-1-AI-Sec project website"
 permalink: /
 ---
 
@@ -16,7 +16,7 @@ Adversarial Attacks in ML based Remote Sensing applications undergraduate resear
 
 ### Zeke Lipscomb
 
-**Roles:** Lead the team 
+**Roles:** Lead the team
 and own administrative aspects of the project<br>
 **Email:** [zekeclass@gmail.com](mailto:zekeclass@gmail.com)
 
